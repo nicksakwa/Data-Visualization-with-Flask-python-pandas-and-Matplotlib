@@ -2,7 +2,7 @@
 
 # Data Visualization with Python Pandas, Matplotlib, and Flask Python Framework
 
-##Requirements
+## Requirements
 * **Matplotlib
 * **Python
 * **Pandas
