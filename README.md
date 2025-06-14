@@ -11,7 +11,7 @@ In this repository, I share code on Data Visualization with the Flask Python Fra
 * Flask Framework
 
 ## Running the App
-    ```bash
+  ```bash
     python app.py
-    ```
+  ```
 
